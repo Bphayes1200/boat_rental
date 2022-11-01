@@ -1,4 +1,4 @@
-require './renter'
+require './lib/renter'
 
 RSpec.describe Renter do 
   describe "#initialize" do 
